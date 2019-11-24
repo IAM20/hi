@@ -1,1 +1,7 @@
+# IDE settings
 *.xcodeproj/
+.idea
+
+# Binary
+*.o
+234tree
